@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  vegan: 
+  vegetarian: 
+  platform: MyString
+  meal: 
+
+two:
+  name: MyString
+  vegan: 
+  vegetarian: 
+  platform: MyString
+  meal: 

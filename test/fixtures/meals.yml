@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  crawl: 
+  location: 
+  date: 2011-01-26 13:52:47
+
+two:
+  name: MyString
+  crawl: 
+  location: 
+  date: 2011-01-26 13:52:47
